@@ -1,6 +1,3 @@
 Project : View Ekyc
-npm install
-
-<!-- Chạy Project: -->
-
-npm run dev
+Cập nhật npm :npm install
+Chạy dự án : npm run start

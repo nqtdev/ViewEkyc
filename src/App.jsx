@@ -1,11 +1,11 @@
-import { useState } from "react";
-
+import './sdk/PluginICAOClientSDK.js';
+import './css/output.css';
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
-      <h1>Hello work</h1>
+      <div>
+        <section></section>
+      </div>
     </>
   );
 }
