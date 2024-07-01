@@ -4,7 +4,9 @@ function App() {
   return (
     <>
       <div>
-        <section></section>
+        <section>
+          <h1 className="text-blue-600">Hellodd</h1>
+        </section>
       </div>
     </>
   );
